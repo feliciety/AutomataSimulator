@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2fc95c3-83bc-4f38-aaf6-8fbf4ad11e05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/project/automatasim/AutoSimstyle.css" afterDir="false" />
+    <list default="true" id="b2fc95c3-83bc-4f38-aaf6-8fbf4ad11e05" name="Changes" comment="partial sizing frame">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Homepage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Rectangle30.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/automatasim/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/automatasim/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/project/automatasim/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project/automatasim/homepage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/project/automatasim/DFA.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project/automatasim/DFA.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="CSS File" />
       </list>
     </option>
@@ -41,21 +42,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/AutomataSim/src/main/resources/project/automatasim&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\AutomataSim\src\main\resources\project\automatasim" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\AutomataSim\src\main\resources\images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,11 +82,52 @@
       <option name="presentableId" value="Default" />
       <updated>1727331742605</updated>
       <workItem from="1727331743646" duration="943000" />
-      <workItem from="1727332716361" duration="456000" />
+      <workItem from="1727332716361" duration="641000" />
+      <workItem from="1727333369922" duration="1003000" />
+      <workItem from="1727334432070" duration="6259000" />
+      <workItem from="1727427146924" duration="1114000" />
+      <workItem from="1727489594567" duration="717000" />
     </task>
+    <task id="LOCAL-00001" summary="partial sizing frame">
+      <option name="closed" value="true" />
+      <created>1727333210340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727333210340</updated>
+    </task>
+    <task id="LOCAL-00002" summary="partial sizing frame">
+      <option name="closed" value="true" />
+      <created>1727333237879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727333237879</updated>
+    </task>
+    <task id="LOCAL-00003" summary="partial sizing frame">
+      <option name="closed" value="true" />
+      <created>1727364820908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727364820908</updated>
+    </task>
+    <task id="LOCAL-00004" summary="partial sizing frame">
+      <option name="closed" value="true" />
+      <created>1727489626964</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727489626964</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="partial sizing frame" />
+    <option name="LAST_COMMIT_MESSAGE" value="partial sizing frame" />
   </component>
 </project>
